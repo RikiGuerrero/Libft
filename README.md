@@ -23,5 +23,3 @@
 - Listas Enlazadas
 
 ## 📂 Estructura del Proyecto
-
-
