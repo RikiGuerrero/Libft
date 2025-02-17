@@ -6,13 +6,11 @@
 /*   By: rguerrer <rguerrer@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/20 13:05:38 by rguerrer          #+#    #+#             */
-/*   Updated: 2023/05/02 18:06:41 by rguerrer         ###   ########.fr       */
+/*   Updated: 2025/02/17 14:43:41 by rguerrer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-// #include <stdio.h>
-// #include <stdlib.h>
 
 int	ft_lenint(int n)
 {
